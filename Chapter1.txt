@@ -1,2 +1,3 @@
 This is the beginning of a fantastic and exciting chapter. 
 Did you know that I added a new chapter in Side-branch !!!
+**edits on sideBranchChapter1**
